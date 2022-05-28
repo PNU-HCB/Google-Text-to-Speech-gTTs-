@@ -18,5 +18,6 @@ speak("안녕하세요, 우리는 세상을 바꾸는 시간 15분을 학습 데
 
 
 
-참고 사이트: https://info-lab.tistory.com/234
-https://gtts.readthedocs.io/en/latest/index.html <- gtts 공식 문서
+참고 사이트:
+* https://info-lab.tistory.com/234
+* https://gtts.readthedocs.io/en/latest/index.html <- gtts 공식 문서
